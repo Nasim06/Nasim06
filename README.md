@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Nasim
-- I’m interested in problem solving, new technologies and learning new skills.
-- I have recently finished my computer science course at university and received a 2:1
-- I am profficient in Java, Python and C#
-- I also have experience with visual basic, C++, prolog, Solidity, SQL and Javascript
+- I’m interested in problem solving, new technologies and learning new skills
+- I studied Computer Science at Swansea university and graduated in 2021
+- I am profficient in Java and Python
+- I also have experience with C#, C++, prolog, Solidity, SQL and Javascript
 - 📫 You can reach me at Nasimahmed_06@hotmail.co.uk
 
 <!---
