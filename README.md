@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Nasim
-- I’m interested in new technology and learning new skills
+- I'm a junior Java developer
+- I’m interested in new technologies and learning new skills
 - I studied Computer Science at Swansea university and graduated in 2021
 - I am profficient in Java, Python and JavaScript
 - I also have experience with C#, C++, prolog, Solidity and SQL
