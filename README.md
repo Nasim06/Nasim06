@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Nasim
-- I’m interested in new technologies and learning new skills
+- I’m interested in technology and learning new skills
 - I studied Computer Science at Swansea university and graduated in 2021
-- I am profficient in Java, Python, JavaScript, React, SQL, HTML and SCSS/CSS
+- I am profficient in Java, Python, JavaScript/TypeScript, React, and SQL
+- Always pursuing deep knowledge
 
+  
 <!---
 Nasim06/Nasim06 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
