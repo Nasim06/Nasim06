@@ -2,6 +2,7 @@
 - I’m interested in technology and learning new skills
 - I studied Computer Science at Swansea university and graduated in 2021
 - I am profficient in Java, Python, JavaScript/TypeScript, React, and SQL
+- Currently working on learning C
 - Always pursuing deep knowledge
 
   
